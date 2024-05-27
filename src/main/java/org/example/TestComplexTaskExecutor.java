@@ -2,10 +2,11 @@ package org.example;
 
 public class TestComplexTaskExecutor {
     public static void main(String[] args) {
-        ComplexTaskExecutor taskExecutor = new ComplexTaskExecutor(5);
+
 
         Runnable testRunnable = () -> {
             System.out.println(Thread.currentThread().getName() + " started the test.");
+            ComplexTaskExecutor taskExecutor = new ComplexTaskExecutor(5);
             taskExecutor.executeTasks(5);
             System.out.println(Thread.currentThread().getName() + " completed the test.");
         };

@@ -1,7 +1,8 @@
 
-	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ßñÈû1J$2f6d2c51-9f36-400e-81d1-7092fa1bbe45
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ßñÈû1J$b7cc18bd-d96e-4fd9-a814-6fc2f0992c93
 ¡
-java:S2142
-"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8çñÈû1J$77ee1ef9-c229-42e7-9ea5-7ee43ac1fae6
-m	java:S106"+Replace this use of System.out by a logger.(İ€ŞÚ8èñÈû1J$188032dc-89ca-4d26-ad7f-7d50ffe0bdcd
-r	java:S106	"+Replace this use of System.out by a logger.(Ç”üÿÿÿÿ8éñÈû1J$44c95efa-bea6-477a-b020-2e0874e5b5e0
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8çñÈû1J$ade43def-a8a1-478a-870f-8fcaa036225b
+m	java:S106"+Replace this use of System.out by a logger.(İ€ŞÚ8èñÈû1J$8380a147-fcae-4d2e-8016-c3b6ea4cd716
+r	java:S106"+Replace this use of System.out by a logger.(Ç”üÿÿÿÿ8éñÈû1J$953b5053-3b69-4087-8b37-cdd48eb8af74
+r
+java:S1068"*Remove this unused "taskId" private field.(ÌÚŠ§ùÿÿÿÿ8Ş½Êû1J$903d4b72-e0d4-44cf-aef6-7b89fb748e3f

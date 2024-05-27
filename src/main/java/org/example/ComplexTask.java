@@ -1,6 +1,11 @@
 package org.example;
 
 public class ComplexTask {
+    private int taskId;
+
+    public ComplexTask(int taskId) {
+        this.taskId = taskId;
+    }
 
     public void execute() {
         try {

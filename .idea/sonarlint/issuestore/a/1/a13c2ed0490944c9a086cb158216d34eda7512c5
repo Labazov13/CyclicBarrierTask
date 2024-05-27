@@ -1,0 +1,10 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8€èÓÇû1J$9f6a9137-476a-4ec7-a10c-07930ab43c15
+Š
+java:S2094"BRemove this empty class, write its code or make it an "interface".(òàÅıÿÿÿÿ8èÓÇû1J$dc5f08db-8401-4605-9827-1a63a9c3c14d
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8èÓÇû1J$ec5d9ca5-9166-490d-b6e3-674fd90e0a0d
+m	java:S106"+Replace this use of System.out by a logger.(Üâù¦8‘èÓÇû1J$0438b548-785a-46bd-9025-64a5e532e771
+o
+java:S1602",Remove useless curly braces around statement(çÏ³ş8–èÓÇû1J$5a2805d4-ba87-4028-8f80-2d2b55334d36
+m	java:S106"+Replace this use of System.out by a logger.(¬…ùø8–èÓÇû1J$dd66ef2a-326c-4565-a544-6b0bdf56e8f9
